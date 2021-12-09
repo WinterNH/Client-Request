@@ -1,1 +1,2 @@
-This project is a work in progress.
+This program reads data from a file, to register ticket requests from clients. It uses methods to determine whether the requests find a match. Then it writes to file the email to be sent to clients depending on whether their requests found a match.
+@author Brenden Galli and Derek Nguyen
